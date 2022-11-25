@@ -1,0 +1,8 @@
+User-agent: Googlebot
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /404
+Disallow: /ai 
+Allow: /*.css$
+Allow: /*.js$
+Sitemap: https://omronperu.pe/sitemap.xml
