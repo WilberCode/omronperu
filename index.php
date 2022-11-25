@@ -23,38 +23,39 @@
           <!-- Google tag (gtag.js) --> 
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-4YLWQZYPHE"></script>
             <script>
-    /*         window.onload = function(){
-                let hotname =  window.location.hostname;
-                if (hotname == 'omronperu.pe') { */
+            window.onload = function(){ 
+                 setTimeout(function(){ 
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
                     
                     gtag('config', 'G-4YLWQZYPHE');
-         /*       */  }
-         /*    }  */
-            </script>
-
-             <!-- trackEvent - google analytics --> 
-            <script type="text/javascript"> 
-              window.onload = function(){
-                setTimeout(function(){ 
-                    var _gaq = _gaq || []; 
-                    _gaq.push(['_setAccount', 'G-4YLWQZYPHE']);
-                    _gaq.push(['_trackPageview']);
-
-                    (function() {
-                        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                    })(); 
-                },3000);
+                },3000)
+                
             }
-               
-            </script>
+            </script> 
+
+            <!-- Google Tag Manager -->
+        <script>
+          window.onload = function(){ 
+            setTimeout(function(){ 
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-KXGWWVS');
+            },3000)
+                
+        }
+        </script>
+        <!-- End Google Tag Manager -->
 </head>
 
 <body> 
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXGWWVS"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <main>
         <div class="max-w-[1920px] mx-auto"> 
             <figure class="block" >
