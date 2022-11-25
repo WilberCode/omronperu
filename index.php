@@ -23,16 +23,16 @@
           <!-- Google tag (gtag.js) --> 
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-4YLWQZYPHE"></script>
             <script>
-            window.onload = function(){
+    /*         window.onload = function(){
                 let hotname =  window.location.hostname;
-                if (hotname == 'omronperu.pe') {
+                if (hotname == 'omronperu.pe') { */
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
                     
                     gtag('config', 'G-4YLWQZYPHE');
-                }
-            } 
+         /*       */  }
+         /*    }  */
             </script>
 
              <!-- trackEvent - google analytics --> 
