@@ -68,29 +68,29 @@
                           <div> 
                             <img loading="lazy" src="build/img/consiguelosen.jpg" alt="CONSÍGUELOS EN:" title="CONSÍGUELOS EN" >
                           </div>
-                          <a href="https://inkafarma.pe/buscador?keyword=omron" target="_blank"  onclick="_gaq.push(['_trackEvent', 'Inkafarma', 'Enlace de Tiendas Omron', 'Inkafarma']);">
-                              <img loading="lazy" src="build/img/inkafarma.jpg" class="tiendas-clics" id="Inkafarma" alt="Inkafarma"  title="Inkafarma">
+                          <a href="https://inkafarma.pe/buscador?keyword=omron" target="_blank" class="tiendas-clics" id="Inkafarma"  onclick="_gaq.push(['_trackEvent', 'Inkafarma', 'Enlace de Tiendas Omron', 'Inkafarma']);">
+                              <img loading="lazy" src="build/img/inkafarma.jpg"   alt="Inkafarma"  title="Inkafarma">
                           </a> 
-                          <a href="https://www.mifarma.com.pe/buscador?keyword=omron" target="_blank"  onclick="_gaq.push(['_trackEvent', 'Mifarma', 'Enlace de Tiendas Omron', 'Mifarma']);">
-                              <img loading="lazy" src="build/img/mifarma.jpg" class="tiendas-clics" id="Mifarma" alt="Mifarma" title="Mifarma" >
+                          <a href="https://www.mifarma.com.pe/buscador?keyword=omron" target="_blank" class="tiendas-clics"  id="Mifarma"  onclick="_gaq.push(['_trackEvent', 'Mifarma', 'Enlace de Tiendas Omron', 'Mifarma']);">
+                              <img loading="lazy" src="build/img/mifarma.jpg"  alt="Mifarma" title="Mifarma" >
                           </a> 
-                          <a href="https://farmaciauniversal.com/buscador/resultados?q=omron" target="_blank"  onclick="_gaq.push(['_trackEvent', 'Farmacia Universal', 'Enlace de Tiendas Omron', 'Farmacia Universal']);">
-                              <img loading="lazy" src="build/img/farmacia-universal.jpg" class="tiendas-clics" id="Farmacia-Universal" alt="Farmacia Universal" title="Farmacia Universal">
+                          <a href="https://farmaciauniversal.com/buscador/resultados?q=omron" target="_blank" class="tiendas-clics"  id="Farmacia-Universal" onclick="_gaq.push(['_trackEvent', 'Farmacia Universal', 'Enlace de Tiendas Omron', 'Farmacia Universal']);">
+                              <img loading="lazy" src="build/img/farmacia-universal.jpg"   alt="Farmacia Universal" title="Farmacia Universal">
                           </a> 
-                          <a href="https://boticasperu.pe/catalogsearch/result/?q=omron" target="_blank"  onclick="_gaq.push(['_trackEvent', 'Boticas Perú', 'Enlace de Tiendas Omron', 'Boticas Perú']);">
-                              <img loading="lazy" src="build/img/boticas-peru.jpg" class="tiendas-clics" id="Boticas-Perú" alt="Boticas Perú" title="Boticas Perú">
+                          <a href="https://boticasperu.pe/catalogsearch/result/?q=omron" target="_blank" class="tiendas-clics" id="Boticas-Perú"   onclick="_gaq.push(['_trackEvent', 'Boticas Perú', 'Enlace de Tiendas Omron', 'Boticas Perú']);">
+                              <img loading="lazy" src="build/img/boticas-peru.jpg"  alt="Boticas Perú" title="Boticas Perú">
                           </a> 
                         
-                          <a href="https://www.coolbox.pe/omron?_q=omron&map=ft" target="_blank"  onclick="_gaq.push(['_trackEvent', 'Coolbox', 'Enlace de Tiendas Omron', 'Coolbox']);">
-                              <img loading="lazy" src="build/img/coolbox.jpg" class="tiendas-clics" id="Coolbox" alt="Coolbox" title="Coolbox" >
+                          <a href="https://www.coolbox.pe/omron?_q=omron&map=ft" target="_blank" class="tiendas-clics" id="Coolbox"  onclick="_gaq.push(['_trackEvent', 'Coolbox', 'Enlace de Tiendas Omron', 'Coolbox']);">
+                              <img loading="lazy" src="build/img/coolbox.jpg"   alt="Coolbox" title="Coolbox" >
                           </a> 
                        
-                          <a href="https://hiraoka.com.pe/marca-omron" target="_blank"  onclick="_gaq.push(['_trackEvent', 'Hiraoka', 'Enlace de Tiendas Omron', 'Hiraoka']);">
-                              <img loading="lazy" src="build/img/hiraoka.jpg" class="tiendas-clics" id="Hiraoka" alt="Hiraoka" title="Hiraoka" >
+                          <a href="https://hiraoka.com.pe/marca-omron" target="_blank" class="tiendas-clics" id="Hiraoka"  onclick="_gaq.push(['_trackEvent', 'Hiraoka', 'Enlace de Tiendas Omron', 'Hiraoka']);">
+                              <img loading="lazy" src="build/img/hiraoka.jpg"   alt="Hiraoka" title="Hiraoka" >
                           </a> 
                      
-                            <a  href="https://lumiluperu.com/search?q=omron&options%5Bprefix%5D=last" target="_blank"  onclick="_gaq.push(['_trackEvent', 'Lumilu Péru', 'Enlace de Tiendas Omron', 'Lumilu Péru']);" >
-                                <img   loading="lazy" src="build/img/lumilu-peru.jpg" class="tiendas-clics" id="Lumilu-Péru" alt="Lumilu Péru" title="Lumilu Péru">
+                            <a  href="https://lumiluperu.com/search?q=omron&options%5Bprefix%5D=last" target="_blank" class="tiendas-clics" id="Lumilu-Péru"  onclick="_gaq.push(['_trackEvent', 'Lumilu Péru', 'Enlace de Tiendas Omron', 'Lumilu Péru']);" >
+                                <img   loading="lazy" src="build/img/lumilu-peru.jpg"   alt="Lumilu Péru" title="Lumilu Péru">
                             </a>  
                           
                       </div>
