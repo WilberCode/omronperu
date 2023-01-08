@@ -57,7 +57,7 @@
             "legalName": "OMRON",
             "name" : "OMRON Perú",
             "url": "https://omronperu.pe/",
-            "logo" : "http://omronperu.pe/build/img/omrom.png",
+            "logo" : "http://omronperu.pe/build/img/omron.png",
             "sameAs" : [
             "https://www.facebook.com/OmronLA/",
             "https://twitter.com/omronlam",
