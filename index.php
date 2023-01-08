@@ -7,16 +7,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OMRON PERÚ: Cuida tu salud</title>
+    <title>OMRON Perú: Cuida tu salud</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="canonical" href="<?=theCurrentUrl();?>" />
-    <meta name="keywords" content="omron, salud, tensiometros, tensiometro de brazo HEM-7120, tensiometro de muñeca HEM-6124  ">
-    <meta name="description" content="Cuida tu Salud - Tensiómetro precisos y fáciles de usar">
+    <meta name="keywords" content="omron, salud, tensiometros, tensiometro de brazo HEM-7120, tensiometro de muñeca HEM-6124, tensiómetro omron perú,tensiómetro digital omron perú, Inkafarma, Mi farma, Farmacia Universal, Boticas Perú, Coolbox, Hiraoka, Lumilu Péru">
+    <meta name="description" content="El cuidado de tu salud es importante y por eso te brindamos los mejores tensiómetros precisos y fáciles de usar. Tensiómetro de calidad recomendado por médicos.">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="OMRON PERÚ">
-    <meta property="og:site_name" content="OMRON PERÚ">
+    <meta property="og:title" content="OMRON Perú">
+    <meta property="og:site_name" content="OMRON Perú">
     <meta property="og:url" content="<?=theCurrentUrl();?>"/>
-    <meta property="og:description" content="Cuida tu Salud - Tensiómetro precisos y fáciles de usar">
+    <meta property="og:description" content="El cuidado de tu salud es importante y por eso te brindamos los mejores tensiómetros precisos y fáciles de usar. Tensiómetro de calidad recomendado por médicos.">
     <meta property="og:image" content="http://omronperu.pe/build/img/omron-banner-screenshot.jpg">
     <link rel="stylesheet" href="build/css/app.css?v=<?=theVersion();?>"> 
  
