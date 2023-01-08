@@ -49,6 +49,48 @@
         }
         </script>
         <!-- End Google Tag Manager -->
+
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "legalName": "OMRON",
+            "name" : "OMRON Perú",
+            "url": "https://omronperu.pe/",
+            "logo" : "http://omronperu.pe/build/img/omrom.png",
+            "sameAs" : [
+            "https://www.facebook.com/OmronLA/",
+            "https://twitter.com/omronlam",
+            "https://www.youtube.com/c/OmronHealthcareLATAM",
+            "https://www.instagram.com/omronlatam/",
+            "https://www.linkedin.com/company/omronhealthcarelatam/"
+            ],
+            "foundingDate": "1930",
+            "founders": {
+                "@type": "Person",
+                "name": "Kazuma Tateisi"
+            },
+            "address":{
+                "@type": "PostalAddress", 
+                "addressRegion": "LIMA", 
+                "addressCountry": {
+                "@type": "Country",
+                "name": "PERU"
+                }
+            }
+            }
+            </script>
+
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type":"ImageObject",
+            "url": "http://omronperu.pe/build/img/omron-banner-screenshot.jpg",
+            "description": "El cuidado de tu salud es importante y por eso te brindamos los mejores tensiómetros precisos y fáciles de usar. Tensiómetro de calidad recomendado por médicos.",
+            "width": "1200",
+            "height": "675"
+            }
+        </script>
 </head>
 
 <body> 
@@ -57,6 +99,7 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <main>
+        <h1 class=" absolute text-transparent text-center  w-full  z-[-1] " >OMRON Perú: Cuida tu salud. Tensiómetro precisos y fáciles de usar</h1>
         <div class="max-w-[1920px] mx-auto"> 
             <figure class="block" >
                 <a href="https://omronhealthcare.la/pe/productos?categoria=MonitoresBrazo" class="omron-banner" id="Omron-Banner" > 
