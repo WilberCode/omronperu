@@ -103,7 +103,7 @@
         <div class="max-w-[1920px] mx-auto"> 
             <figure class="block" >
                 <a href="https://omronhealthcare.la/pe/productos?categoria=MonitoresBrazo" class="omron-banner" id="Omron-Banner" > 
-                    <img  src="build/img/omron-banner.jpg" alt="OMRON: Cuida tu Salud - Tensiómetro precisos y fáciles de usar" title="OMRON: Cuida tu Salud - Tensiómetro precisos y fáciles de usar"> <span  class="hidden">Inkafarma</span>
+                    <img  src="build/img/omron-banner.jpg" alt="OMRON: Cuida tu Salud - Tensiómetro precisos y fáciles de usar" title="OMRON: Cuida tu Salud - Tensiómetro precisos y fáciles de usar"> <span  class="hidden">Omron Banner</span>
                 </a>
             </figure>
             <div >
